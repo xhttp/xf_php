@@ -14,7 +14,7 @@ index 为默认的模块名和方法名，可以省略
 
 框架目录结构： xf_php
 
-|-- application
+|-- application<br>
     |-- cache 
     |-- config
         |-- config.php
