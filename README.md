@@ -15,35 +15,35 @@ index 为默认的模块名和方法名，可以省略
 框架目录结构： xf_php
 
 |-- application<br>
-    |-- cache 
-    |-- config
-        |-- config.php
-    |-- controller
-        |-- IndexController.php
-    |-- view
-        |-- index
-            |-- index.html
-    |-- viewc
-|-- libraray
-    |-- smarty 
-    |-- session.php
-|-- www
-    |-- css 
-    |-- js 
-    |-- index.php
-|-- xfphp
-    |-- XF_Application.php 
-    |-- XF_Cache.php 
-    |-- XF_Controller.php 
-    |-- XF_Database.php 
-    |-- XF_Exception.php 
-    |-- XF_Factory.php 
-    |-- XF_Http.php 
-    |-- XF_Page.php 
-    |-- XF_Request.php 
-    |-- XF_Response.php 
-    |-- XF_Router.php 
-    |-- XF_Util.php
+　　|-- cache <br>
+　　|-- config<br>
+　　　　|-- config.php<br>
+　　|-- controller<br>
+　　　　|-- IndexController.php<br>
+　　|-- view<br>
+　　　　|-- index<br>
+　　　　　　|-- index.html<br>
+　　|-- viewc<br>
+|-- libraray<br>
+　　|-- smarty <br>
+　　|-- session.php<br>
+|-- www<br>
+　　|-- css <br>
+　　|-- js <br>
+　　|-- index.php<br>
+|-- xfphp<br>
+　　|-- XF_Application.php <br>
+　　|-- XF_Cache.php <br>
+　　|-- XF_Controller.php <br>
+　　|-- XF_Database.php <br>
+　　|-- XF_Exception.php <br>
+　　|-- XF_Factory.php <br>
+　　|-- XF_Http.php <br>
+　　|-- XF_Page.php <br>
+　　|-- XF_Request.php <br>
+　　|-- XF_Response.php <br>
+　　|-- XF_Router.php <br>
+　　|-- XF_Util.php<br>
 
 
 －－－－－末完待续
