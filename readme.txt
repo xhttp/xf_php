@@ -28,3 +28,4 @@ $HTTP["host"] =~ "(www.)?domain.com$" {
   )
 }
 
+test.
